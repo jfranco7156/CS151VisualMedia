@@ -20,6 +20,6 @@ def space1(x,y,width,height):
 
 #s.draw_star(25,'blue')
 
-s.star(50,50,75,100)
+space1(50,50,75,100)
 
 input("Enter")
